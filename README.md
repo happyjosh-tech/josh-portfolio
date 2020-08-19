@@ -4,7 +4,7 @@
 <h3 align="center"> A clean, beautiful, responsive and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
 <p align="center">
-  <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
+  <a href="http://hits.dwyl.com/happyjosh-tech/happyjoshPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.13.7-blueviolet?style=flat-square" /></a>
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
@@ -157,7 +157,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 <p align="center"> 
     <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
   </a>
 </p>
 
@@ -194,7 +193,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://happyjosh-tech.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4" width="100px;" alt=""/><br /><sub><b>Chukwuebuka O.</b></sub></a><br /><a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=happyjosh-tech" title="Documentation">📖</a> <a href="#design-happyjosh-tech" title="Design">🎨</a> <a href="#maintenance-happyjosh-tech" title="Maintenance">🚧</a> <a href="#ideas-happyjosh-tech" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://happyjosh-tech.github.io"><img src="https://rel.ink/gNaV3a" width="100px;" alt=""/><br /><sub><b>Chukwuebuka O.</b></sub></a><br /><a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=happyjosh-tech" title="Documentation">📖</a> <a href="#design-happyjosh-tech" title="Design">🎨</a> <a href="#maintenance-happyjosh-tech" title="Maintenance">🚧</a> <a href="#ideas-happyjosh-tech" title="Ideas, Planning, & Feedback">🤔</a></td>
     
   </tr>
 </table>
