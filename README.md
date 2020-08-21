@@ -4,19 +4,19 @@
 <h3 align="center"> A clean, beautiful, responsive and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
 <p align="center">
-  <a href="http://hits.dwyl.com/happyjosh-tech/happyjoshPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
+  <a href="http://hits.dwyl.com/happyjosh-tech/happyjoshPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/happyjosh-tech/josh-portfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.13.7-blueviolet?style=flat-square" /></a>
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
-  <a href="https://join.slack.com/t/masterportfolio/shared_invite/zt-g772n1fo-Ns4usanURF8jVb8wk2lRAA"><img alt="Join Slack Channel For Support" src="https://img.shields.io/badge/slack-masterPortfolio-yellow.svg?logo=slack?style=flat-square" /></a>
+  <a href="https://join.slack.com/t/masterportfolio/shared_invite/zt-g772n1fo-Ns4usanURF8jVb8wk2lRAA"><img alt="Join Slack Channel For Support" src="https://img.shields.io/badge/slack-josh-portfolio-yellow.svg?logo=slack?style=flat-square" /></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
   <br/>
-  <a href="https://app.netlify.com/sites/ashutosh1919portfolio/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
+  <a href="https://happyjosh-portfolio.netlify.app/"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
   <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
   <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://github.com/ashutosh1919/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
+  <a href="https://github.com/happyjosh-tech/josh-portfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
   <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
-  <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+  <a href="https://jrisetech.web.app/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 
@@ -35,7 +35,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://happyjosh-tech.github.io/)**
+To view a live example, **[click here](https://happyjosh-portfolio.netlify.app/)**
 
 # Clone And Use 📋
 
@@ -44,7 +44,7 @@ To view a live example, **[click here](https://happyjosh-tech.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/happyjosh-tech/happyjosh-tech.github.io.git
+     git clone https://github.com/happyjosh-tech/josh-portfolio.git
     ```
   - This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
@@ -106,7 +106,7 @@ Whenever you want to update the github related information on the website you ne
 
 ### Splash Logo
 
-Note here that if you click [my portfolio](https://happyjosh-tech.github.io/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
+Note here that if you click [my portfolio](https://happyjosh-portfolio.netlify.app/), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
 Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo.
@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 # Contributing 💡
 
-If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/happyjosh-tech/masterPortfolio/pulls) or [issue](https://github.com/happyjosh-tech/happyjoshPortfolio/issues).
+If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/happyjosh-tech/josh-portportfolio/pulls) or [issue](https://github.com/happyjosh-tech/josh-portfolio/issues).
 
 - Move to Gatsby
 - Add Podcast Section and Video Section
@@ -193,7 +193,7 @@ If you can help us with these. Please don't hesitate to open an [pull request](h
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://happyjosh-tech.github.io"><img src="https://rel.ink/gNaV3a" width="100px;" alt=""/><br /><sub><b>Chukwuebuka O.</b></sub></a><br /><a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/happyjosh-tech/happyjoshPortfolio/commits?author=happyjosh-tech" title="Documentation">📖</a> <a href="#design-happyjosh-tech" title="Design">🎨</a> <a href="#maintenance-happyjosh-tech" title="Maintenance">🚧</a> <a href="#ideas-happyjosh-tech" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://happyjosh-portfolio.netlify.app/"><img src="https://rel.ink/gNaV3a" width="100px;" alt=""/><br /><sub><b>Chukwuebuka O.</b></sub></a><br /><a href="https://github.com/happyjosh-tech/josh-portfolio/commits?author=happyjosh-tech" title="Code">💻</a> <a href="https://github.com/happyjosh-tech/josh-portfolio/commits?author=happyjosh-tech" title="Documentation">📖</a> <a href="#design-happyjosh-tech" title="Design">🎨</a> <a href="#maintenance-happyjosh-tech" title="Maintenance">🚧</a> <a href="#ideas-happyjosh-tech" title="Ideas, Planning, & Feedback">🤔</a></td>
     
   </tr>
 </table>

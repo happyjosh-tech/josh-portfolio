@@ -14,7 +14,7 @@ const greeting = {
     "An organized, resourceful and results-driven professional seeking to obtain a position in a dynamic work environment where exceptional ability to solve problems are required.",
   resumeLink:
     "https://drive.google.com/file/d/1bwboHP-_a_cJ5ilX8Ja_Kw04Vab7E59P/view?usp=sharing",
-  portfolio_repository: "https://github.com/happyjosh-tech/happyjoshPortfolio",
+  portfolio_repository: "https://github.com/happyjosh-tech/josh-portfolio",
 };
 
 const socialMediaLinks = [
